@@ -15,6 +15,6 @@ weight = 60
 
 +++
 
-I am a teaching assistant for the following course at SYSU:
+I was a teaching assistant for the following course at SYSU:
 
-* 2017-Spring Software Engineering Training: Cloud Robotics
+* 2017-Spring:  **Software Engineering Training: Cloud Robotics**
