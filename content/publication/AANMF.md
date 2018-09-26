@@ -18,15 +18,15 @@ authors = ["Fanghua Ye", "**Shenghui Li**", "Zhiwei Lin", "Chuan Chen", "Zibin Z
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "IEEE International Conference on Cloud Computing"
-publication_short = "**IEEE CLOUD**"
+publication = "IEEE International Conference on Data Mining"
+publication_short = "**ICDM**"
 
 # Abstract and optional shortened version.
 abstract = ""
 abstract_short = ""
 
 # Featured image thumbnail (optional)
-image_preview = "cloud18.png"
+#image_preview = "cloud18.png"
 
 # Is this a selected publication? (true/false)
 selected = true
