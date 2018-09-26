@@ -40,7 +40,7 @@ projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = [url_pdf]
+tags = ["url_pdf"]
 
 # Links (optional).
 url_pdf = "https://ieeexplore.ieee.org/document/8457784"

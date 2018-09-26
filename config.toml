@@ -6,7 +6,7 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://shenghuili.netlify.com/"
+baseurl = "https://shenghuili2.github.io"
 
 # Title of your site
 title = "Home [Shenghui Li]"
@@ -54,7 +54,7 @@ enableGitInfo = false
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
-  font = "playfair"
+  font = "classic"
 
   # Your details.
   name = "Shenghui Li"

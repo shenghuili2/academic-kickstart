@@ -36,4 +36,4 @@ weight = 5
 # Biography
 Welcome to my homepage! My name is Shenghui Li. I am currently a master student under the co-supervision of [Prof. Wuhui Chen](http://sdcs.sysu.edu.cn/content/2955)  and [Prof. Zibin Zheng](http://www.zibinzheng.com/) at the [School of Data and Computer Science](https://en.xidian.edu.cn/) of [Sun Yat-sen University](http://www.sysu.edu.cn/2012/en/index.htm). I got my bachelor degree from [Xidian University](https://en.xidian.edu.cn/) in 2017.
 
- ##### I am applying to PhD programs for Autumn 2019 entry. If you are seeking self-motivated and self-disciplined students, I am always an option!
+#### :fire: I am applying to PhD programs for Autumn 2019 entry. If you are seeking self-motivated and self-disciplined students, I am always an option!

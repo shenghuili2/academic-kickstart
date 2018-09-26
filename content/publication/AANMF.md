@@ -1,5 +1,5 @@
 +++
-title = "Adaptive Afﬁnity Learning for Accurate Community Detectio"
+title = "Adaptive Afﬁnity Learning for Accurate Community Detection"
 date = 2018-07-18T03:52:05+08:00
 draft = false
 
@@ -40,10 +40,10 @@ projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = [url_dataset]
+tags = ["url_dataset", "url_pdf"]
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "http://icdm2018.org/"
 url_preprint = ""
 url_code = ""
 url_dataset = "http://mlg.ucd.ie/aggregation/index.html"
