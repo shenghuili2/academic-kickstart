@@ -10,31 +10,30 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Intelligence",
+    "Approximation Algorithms",
+    "Cloud Robotics",
+    "Edge Computing"
   ]
 
 # List your qualifications (such as academic degrees).
-[[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "M.S. in Software Engineering"
+  institution = "Sun Yat-Sen University"
+  year = 2017
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
- 
+  course = "B.S. in Microelectronic Science & Engineering"
+  institution = "Xidian University"
+  year = 2013
+
+  [header]
+  image = "headers/ironman.jpg"
+  caption = "Image credit: [**Academic**](https://github.com/gcushen/hugo-academic/)"
 +++
 
 # Biography
+Welcome to my homepage! My name is Shenghui Li. I am currently a master student under the co-supervision of [Prof. Wuhui Chen](http://sdcs.sysu.edu.cn/content/2955)  and [Prof. Zibin Zheng](http://www.zibinzheng.com/) at the [School of Data and Computer Science](https://en.xidian.edu.cn/) of [Sun Yat-sen University](http://www.sysu.edu.cn/2012/en/index.htm). I got my bachelor degree from [Xidian University](https://en.xidian.edu.cn/) in 2017.
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+##### I am applying to PhD programs for Autumn 2019 entry. If you are seeking self-motivated and self-disciplined students, I am always an option!
