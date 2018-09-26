@@ -21,7 +21,7 @@ weight = 5
 [[education.courses]]
   course = "M.S. in Software Engineering"
   institution = "Sun Yat-Sen University"
-  year = 2017
+  year = 2019
 
 [[education.courses]]
   course = "B.S. in Microelectronic Science & Engineering"
